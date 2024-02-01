@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: node-app
+  namespace: node-app
+data:
+  name: Joy
